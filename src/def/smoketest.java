@@ -25,7 +25,7 @@ public class smoketest
 		driver.findElement(By.id("email")).sendKeys("avinashpaigude@gmail.com");
 		driver.findElement(By.id("pass")).sendKeys("sfsfsf");
 		driver.close();
-		System.out.println("this is the  new change")
+		System.out.println("this is the  new change");
 	
 	}
 
